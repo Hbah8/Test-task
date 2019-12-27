@@ -1,5 +1,13 @@
 # Test-task
 
-Test task that will be sent to employer
+Необходимо выполнить проверку корректности поиска на сайте https://docs.microsoft.com/ru-ru/ по слову "LINQ" с помощью тестирования REST API. 
+На проверку взять 50 результатов.
+Корректность поиска определяется наличием слова "LINQ" без учета регистра в результатах.
+
+# Используемые инструменты
+.net Core ver 2.2
+Nunit ver. 3.8.1
+RESTSharp 106.6.10
+Newtonsoft.Json 12.0.3
 
 Done by Roman.
