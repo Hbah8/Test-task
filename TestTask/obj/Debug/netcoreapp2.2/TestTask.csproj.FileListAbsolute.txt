@@ -1,0 +1,8 @@
+C:\Users\crazi\source\repos\NUnitTestProject1\TestTask\bin\Debug\netcoreapp2.2\TestTask.deps.json
+C:\Users\crazi\source\repos\NUnitTestProject1\TestTask\bin\Debug\netcoreapp2.2\TestTask.dll
+C:\Users\crazi\source\repos\NUnitTestProject1\TestTask\obj\Debug\netcoreapp2.2\TestTask.AssemblyInfoInputs.cache
+C:\Users\crazi\source\repos\NUnitTestProject1\TestTask\obj\Debug\netcoreapp2.2\TestTask.AssemblyInfo.cs
+C:\Users\crazi\source\repos\NUnitTestProject1\TestTask\bin\Debug\netcoreapp2.2\TestTask.pdb
+C:\Users\crazi\source\repos\NUnitTestProject1\TestTask\obj\Debug\netcoreapp2.2\TestTask.csprojAssemblyReference.cache
+C:\Users\crazi\source\repos\NUnitTestProject1\TestTask\obj\Debug\netcoreapp2.2\TestTask.dll
+C:\Users\crazi\source\repos\NUnitTestProject1\TestTask\obj\Debug\netcoreapp2.2\TestTask.pdb
